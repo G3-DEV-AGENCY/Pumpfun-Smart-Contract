@@ -10,7 +10,7 @@
 
 ## Contact
 
-  If you wanna build more better, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+  If you wanna build more better, contact here: [Telegram](https://t.me/cryptocooker0510) | [Twitter](https://x.com/CryptoCookerDev)
 
 ## Differences Between Pumpfun Smart Contract and Raydium Launchlab
 
@@ -40,13 +40,6 @@ Raydium Launchlab enhances the standard launchpad experience with additional, ad
 | AMM/CPMM Support           | Yes                            | Yes                           |
 
 In summary, while both platforms serve as essential tools for launching memecoins, the Raydium Launchlab provides robust features like token vesting and migration options, making it more suitable for developers who seek greater control over their token distributions and exit strategies. In contrast, Pumpfun emphasizes simplicity in launching new tokens, appealing to developers who prioritize a straightforward, user-friendly approach.
-
-## Related repository
-  You can check frontend and backend repo in my github as well.
-  
-  [Pumpfun Backend repo](https://github.com/0xTan1319/Pump-Fun-Backend)
-  
-  [Pumpfun Frontend repo](https://github.com/0xTan1319/Pump-Fun-FE)
 
 ## Contribution
 
